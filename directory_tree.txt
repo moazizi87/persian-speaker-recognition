@@ -1,0 +1,28 @@
+speaker-recognition/
+├── Dockerfile
+├── app/
+│   ├── extracted features/
+│   │   ├── mean_mel.npy
+│   │   ├── mean_mel.pt
+│   │   ├── std_mel.npy
+│   │   └── std_mel.pt
+│   ├── final_model.py
+│   ├── preprocess/
+│   │   ├── D1-GetDuration.py
+│   │   ├── D1-NoiseRemoving.py
+│   │   ├── D1-Normalization.py
+│   │   ├── D1-SilenceRemoving.py
+│   │   ├── D3-NoiseRemoving.py
+│   │   ├── D3-PydubNormalization.py
+│   │   ├── D3-SilenceRemoving.py
+│   │   └── DataAugmentation.py
+│   └── streamlit.py
+├── data/
+│   ├── 1000_augmented_0.wav
+│   ├── ...
+│   ├── 9_augmented_4.wav
+│   └── augmented_labels.csv
+├── models/
+│   ├── model_performance_report.txt
+│   └── enhanced_transformer_embedding.pth
+└── requirements.txt
