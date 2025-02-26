@@ -207,6 +207,12 @@ The provided `Dockerfile` ensures that all dependencies and configurations are e
 
 ---
 
+## Team
+---
+Mohammad Omid Azizi, Zeinab Torabi, Samaneh Hashemian and Zahra Marami
+
+---
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
