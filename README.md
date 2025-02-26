@@ -13,6 +13,7 @@ This repository hosts a complete speaker recognition system that leverages advan
 - [Deployment](#deployment)
 - [Installation and Usage](#installation-and-usage)
 - [Docker Support](#docker-support)
+- [Team](#Team)
 - [License](#license)
 - [Contact](#contact)
 
@@ -208,7 +209,6 @@ The provided `Dockerfile` ensures that all dependencies and configurations are e
 ---
 
 ## Team
----
 Mohammad Omid Azizi, Zeinab Torabi, Samaneh Hashemian and Zahra Marami
 
 ---
