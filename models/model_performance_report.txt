@@ -1,0 +1,13 @@
+Model Performance Report
+========================
+
+Device used: cuda
+
+Cross-Validation Results:
+Cross-Validation Accuracies: [0.9390060240963856, 0.9363704819277109, 0.9307228915662651, 0.9371234939759037, 0.9352409638554217]
+Mean Cross-Validation Accuracy: 0.9357
+Cross-Validation F1-Scores: [0.9380916877555588, 0.9358488653700947, 0.9304451060787098, 0.9367799343916686, 0.9351866344576445]
+Mean Cross-Validation F1-Score: 0.9353
+
+Learning curves for the last fold have been saved as 'learning_curves.png'.
+Model saved to /content/drive/MyDrive/Audio Proccesing/enhanced_transformer_embedding.pth
