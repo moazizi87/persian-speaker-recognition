@@ -220,5 +220,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions, suggestions, or contributions, please open an issue on GitHub or contact [mohammadomid1387@gmail.com].
-
----
