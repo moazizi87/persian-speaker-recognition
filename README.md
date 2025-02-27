@@ -222,5 +222,3 @@ This project is licensed under the [MIT License](LICENSE).
 For any questions, suggestions, or contributions, please open an issue on GitHub or contact [mohammadomid1387@gmail.com].
 
 ---
-
-*This README aims to provide a comprehensive guide to the speaker recognition project, detailing every aspect from data selection and preprocessing to model training, evaluation, and deployment. Enjoy exploring and contributing to the project!*
