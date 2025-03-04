@@ -2,6 +2,17 @@
 
 This repository hosts a complete speaker recognition system that leverages advanced audio preprocessing, feature extraction, and deep learning techniques. The project integrates an interactive web interface built with Streamlit, and its entire environment is containerized using Docker for hassle-free deployment.
 
+Model Performance Report
+========================
+
+Device used: cuda
+
+Cross-Validation Results:</br>
+Cross-Validation Accuracies: [0.9390060240963856, 0.9363704819277109, 0.9307228915662651, 0.9371234939759037, 0.9352409638554217] </br>
+Mean Cross-Validation Accuracy: 0.9357 </br>
+Cross-Validation F1-Scores: [0.9380916877555588, 0.9358488653700947, 0.9304451060787098, 0.9367799343916686, 0.9351866344576445] </br>
+Mean Cross-Validation F1-Score: 0.9353 </br>
+
 ---
 
 ## Table of Contents
